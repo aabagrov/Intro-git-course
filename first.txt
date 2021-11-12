@@ -1,3 +1,3 @@
-Something
-more things
+I have changed this line
+deleted this one
 third line
