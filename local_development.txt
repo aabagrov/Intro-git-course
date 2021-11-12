@@ -1,0 +1,1 @@
+My work concerns application of neural networks in many-body quantum theory
